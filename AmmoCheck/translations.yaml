@@ -1,0 +1,7 @@
+ammo:
+  empty: "Empty"
+  almostEmpty: "Almost empty"
+  lessHalf: "Less than half"
+  aboutHalf: "About half"
+  moreHalf: "Nearly full"
+  full: "Full"
