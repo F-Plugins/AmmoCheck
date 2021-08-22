@@ -20,7 +20,7 @@ jobs:
       with:
         dotnet-version: 5.0.x
     - name: Install dependencies
-      run: dotnet restore
+      run: dotnet restore AmmoCheck/AmmoCheck.csproj
     - name: Update version
       run: "sed -i \"s#<Version>0.0.0</Version>#<Version>${{ github.event.inputs.version }}</Version>#\" AmmoCheck/AmmoCheck.csproj"  
     - name: Update package version
