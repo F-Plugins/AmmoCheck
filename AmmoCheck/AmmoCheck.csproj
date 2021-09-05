@@ -13,7 +13,7 @@
     <PackageId>Feli.AmmoCheck</PackageId>
     <!-- must be unique, should be same as your plugin ID -->
     <PackageDescription>A plugin that simulates the tarkov system to check the ammo</PackageDescription>
-    <PackageLicenseExpression>EUPL-1.2</PackageLicenseExpression>
+    <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
     <!-- see https://spdx.org/licenses/ -->
     <PackageAuthor>Feli</PackageAuthor>
     <PackageTags>openmod openmod-plugin unturned</PackageTags>
